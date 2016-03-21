@@ -13,18 +13,19 @@
 
 * This is a mod that gives racers the same starting item. The idea is that it is a compromise between seeded and unseeded racing.
 * Other than that, it uses the same files as [the Jud6s mod](https://github.com/Zamiell/jud6s).
-
-<br />
-
-## How Do I Use It?
-
-Much like Diversity Mod, all you have to do is run the `instant-start-mod` program. You do not have to move any files or uninstall other mods.
+* It includes the 20 best starting items from item rooms. It also provides the option to use other nonstandard starts, like a strong devil item, a strong angel item, or a combo like guppy or quad+triple.
 
 <br />
 
 ## Rules
 
-* You are not allowed to enter the Treasure Room on Basement 1.
+* You are not allowed to take the item from the Basement 1 Item Room. (without this rule, it would still be a good idea to reset for a *second* starting item)
+
+<br />
+
+## How Do I Use It?
+
+Much like Diversity Mod, all you have to do is run the `instant-start-mod` program. You do not have to move any files or uninstall other mods. To change the starting item, you have to close the game between runs and relaunch it from inside this program.
 
 <br />
 
