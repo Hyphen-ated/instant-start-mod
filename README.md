@@ -1,4 +1,4 @@
-# Instant Start Mod
+# Instant Start Mod v1.2
 ##### A racing mod for The Binding of Isaac: Afterbirth
 
 <br /><br />
